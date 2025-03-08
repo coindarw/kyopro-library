@@ -1,0 +1,11 @@
+-Wall
+-Wextra
+-Wno-unknown-pragmas
+-Wno-unused
+-Wno-unused-parameter
+-Wno-sign-compare
+-I
+atcoder-library/
+-std=c++23
+-target
+x86_64-pc-windows-gnu
